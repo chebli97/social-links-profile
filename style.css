@@ -1,0 +1,70 @@
+body{
+    background-color: #141414;
+    font-family: "Heebo", sans-serif;
+
+}
+
+h2 , h4 , h5 {
+    margin: 0;
+}
+
+.card{
+    padding: 24px;
+    margin-left: 460px;
+    margin-top: 30px;
+    height: 34rem;
+    width: 28%;
+    background-color: #1F1F1F;
+    border-radius: 10px;
+}
+
+.card img{
+    border-radius: 50%;
+    width: 120px;
+    margin-left: 130px; 
+    /* display: none; */
+    visibility: hidden;
+}
+
+.description{
+    text-align: center;
+}
+
+.description h2{
+    color: white;
+    font-weight: 500;
+    font-family: "Heebo", sans-serif;
+}
+
+.title{
+    color: #81934A;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+h5{
+    color: #eee;
+    font-weight: 500;
+}
+
+.links{
+    margin-left: 70px;
+    margin-top: 20px;
+}
+
+.links button{
+    color: #eee;
+    background-color: #333333;
+    border: none;
+    border-radius: 8px;
+    width: 230px;
+    height: 40px;
+    margin-bottom: 16px;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+button:hover{
+    color:#333333 ;
+    background-color:#eee ;
+}
