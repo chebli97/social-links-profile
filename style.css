@@ -23,7 +23,7 @@ h2 , h4 , h5 {
     width: 120px;
     margin-left: 130px; 
     /* display: none; */
-    visibility: hidden;
+    /* visibility: hidden; */
 }
 
 .description{
